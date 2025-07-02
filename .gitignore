@@ -1,0 +1,53 @@
+### Compilados de Java ###
+target/
+
+### Librerías locales ###
+libs/
+
+### Archivos de log ###
+*.log
+
+### Archivos temporales ###
+*.tmp
+*.swp
+*.bak
+
+### Configuraciones locales ###
+.env
+*.env
+
+### Directorio de uploads ###
+uploads/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
